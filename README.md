@@ -1,4 +1,4 @@
-# Test Technique
+# Technical test from company
 
 ## Test Statement
  Evaluation de connaissances en JavaScript
